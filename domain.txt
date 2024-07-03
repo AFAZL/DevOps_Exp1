@@ -1,0 +1,9 @@
+ Data Science and Machine Learning
+Roles:
+Data Scientist: Analyze and interpret complex data to help companies make data-driven decisions. Utilize statistical methods and machine learning techniques.
+Machine Learning Engineer: Develop algorithms and models that enable machines to learn and make predictions based on data.
+Skills Needed:
+Programming languages: Python, R
+Machine learning frameworks: TensorFlow, PyTorch
+Data manipulation: SQL, Pandas
+Statistical analysis, data visualization, and problem-solving skills
